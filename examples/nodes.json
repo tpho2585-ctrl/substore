@@ -1,0 +1,32 @@
+[
+  {
+    "name": "🇭🇰 HK Edge",
+    "flag": "🇭🇰",
+    "ip": "203.0.113.10",
+    "entry": "HK",
+    "exit": "US",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "protocol": "vmess"
+  },
+  {
+    "name": "🇸🇬 SG Direct",
+    "flag": "🇸🇬",
+    "ip": "203.0.113.20",
+    "entry": "SG",
+    "exit": "JP",
+    "country": "Singapore",
+    "city": "Singapore",
+    "protocol": "ss"
+  },
+  {
+    "name": "Test HTTP",
+    "flag": "🏳️",
+    "ip": "198.51.100.5",
+    "entry": "LA",
+    "exit": "NYC",
+    "country": "United States",
+    "city": "Los Angeles",
+    "protocol": "http"
+  }
+]
